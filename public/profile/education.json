@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Sep 2020 - May 2026",
+            "cardTitle": "BASc , Biomedical Engineering",
+            "cardSubtitle":"University of British Columbia, Vancouver",
+            "cardDetailedText": "Dean's List",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Apr 2020",
+            "cardTitle": "Richmond Secondary School",
+            "cardSubtitle":"British Columbia",
+            "cardDetailedText": "International Baccalaureate Diploma"
         }
     ]
 }

@@ -14,24 +14,24 @@
             "href": "/about"
         },
         {
-            "title": "Skills",
-            "href": "/skills"
-        },
-        {
             "title": "Education",
             "href": "/education"
         },
         {
-            "title": "Experience",
+            "title": "Work Experience",
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "title": "Techanical Projects",
             "href": "/projects"
         },
         {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1Nc8LqdFhZwblXoUVPrwXLlPO3Ff-kDhp/view?usp=sharing",
             "type": "link"
         }
     ]

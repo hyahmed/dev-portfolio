@@ -1,31 +1,42 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Medical Image Analysis Intern",
+            "subtitle": "Torus Biomedical",
+            "workType": "Full-time Co-op",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Improved workflow accuracy and efficiency by creating Python scripts to streamline analysis in Slicer 3D and Blender, using git for version control.",
+                "Authored and revised detailed standard operating procedure documentation for quality assessment and team onboarding consistency.",
+                "Segmented bones and annotated anatomical landmarks across CT datasets.",
+                "Created and improved quality assessment methods to assess segmentation analysis, annotations, and 3D coordinate systems.",
+                "Modeled hip implant stems in Fusion 360, supporting implant integration into patient-specific bone models for ML-based surgical planning."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "04/2025 – 09/2025"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Failure Analysis Co-op",
+            "subtitle": "Cellcentric Fuel Cell",
+            "workType": "Full-time Co-op",
             "workDescription": [
-                "Worked on abc."
+                "Supported material characterization, testing and failure analysis of hydrogen fuel cell parts, using chemical handling and optical instruments.",
+                "Lead sample preparation for various projects, including sample preparation, chemical handling and manipulation, and embedding in epoxy for advanced imaging.",
+                "Performed non-destructive fuel cell and stack testing in cleanroom environments.",
+                "Operated a micro-CT scanner and used specialized software to reduce noise and artifacts, deconvolute objects, and reconstruct models to locate material defects. ",
+                "Designed custom jigs using SolidWorks and Onshape CAD for sample preparation, reducing CT scan time and acqusition errors.",
+                "Utilized SEM imaging, optical, and laser microscopy to detect micro-detects and failure modes in fuel cell components, improving performance in future iterations.",
+                "Taught new co-op students the best practices for image analysis, and techniques for material and sample preparation."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "01/2024 – 08/2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Data Analysis Co-op",
+            "subtitle": "IMM Lab | BC Children's Hospital",
+            "workType": "Full-time Co-op",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Conducted in-depth analysis of neuroimaging and behavioral data using Python and MATLAB, from pre-processing to source localization, culminating in a published abstract at OHBM and a conference poster relating to visuomotor function.",
+                "Researched and presented best analysis practices, including the implementation of ICA and CUDA-accelerated MNE-Python to reduce computational time and artifacal removal accuracy.",
+                "Headed MEG data acquisition and operating protocols at the hospital, managing patient consent, HPI coil application, and operating paradigm scripts.",
+                "Spearheaded lab website development using Markdown, HTML, CSS and Java, using Git/Github for version control and hosting."
             ],
             "dateText": "09/20XX – 01/20YY"
         }
