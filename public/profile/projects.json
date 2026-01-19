@@ -11,7 +11,7 @@
                 },
                 {
                     "text": "FEA Von Mises Stress Plot",
-                    "href": "https://drive.google.com/drive/u/4/folders/1CCWd2PmakQmNF8WzbnMhyUXts3JRQqQp"
+                    "href": "https://drive.google.com/file/d/1xb3dHCMwVc9t5lfaag-22vgrE_LSuFSg/view?usp=sharing"
                 }
             ],
             "tags" : [
@@ -37,7 +37,7 @@
             "links": [
                 {
                     "text": "Manufacturing and Assembly",
-                    "href": "https://drive.google.com/drive/u/4/folders/1xf0Cy2Taso7rG6ixp6te50Sst5xow_5B"
+                    "href": "https://drive.google.com/file/d/1pDYGRbUXJ1X4jlc0pzXgZPYitepFZ7Iw/view?usp=sharing"
                 },
                 {
                     "text": "Shaft Drawing for Machining",
@@ -62,7 +62,7 @@
             "links": [
                 {
                     "text": "3D Printed Sensor Housing",
-                    "href": "https://drive.google.com/drive/u/4/folders/1Rcew9tmHTuMgQlERWbxHmd3NQzVT3wpL"
+                    "href": "https://drive.google.com/file/d/1td-8VwqRTwBCTIh92Cywhohs7z0HzJ1I/view?usp=sharing"
                 },
                 {
                     "text": "Data Logging",
@@ -70,7 +70,7 @@
                 },
                 {
                     "text": "Microcontroller",
-                    "href": "https://drive.google.com/file/d/1ZtCAtN-Z6PeNPrBIYtskymcEfh8GpDGe/view?usp=sharing"
+                    "href": "https://drive.google.com/file/d/1Mxld8jizlW6EwisKLCYEJydkue3DKBNc/view?usp=sharing"
                 }
             ],
             "tags" : [
@@ -81,34 +81,15 @@
             ]
         },
         {
-            "image" : "images/projects/PPG_heart_sensor.png",
-            "title": "PPG Heart Rate Sensor",
-            "bodyText": "A simple DIY PPG sensor to detect heart rate. \n -Expanded knowledge with IR components for AC signal, and soldering",
+            "image" : "images/projects/PPG_signal_detector.png",
+            "title": "PPG Signal Acqusition and Filtering",
+            "bodyText": "A simple DIY PPG sensor to detect heart rate. \n - Used a Chebyshev filter in MATLAB to improve signal quality.",
             "links": [
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Bioreactor CFD Simulation (WIP)",
-            "bodyText": "An ongoing project to learn more about CFD using ANSYS, to simulate mixing efficiency and analyze flow behaviour in a bench-scale bioreactor. \n - Simulating velocity fields, shear stress distribution relevant to 3D cell cultures. \n - Experimenting with reactor geometry, impeller configuration and boundary conditions.",
-            "links": [
-                {
-                }
-            ],
-            "tags" : [
-                "ANSYS Confluent",
-                "Bioreactor mixing",
-                "Fluid Flow",
-                "Biological modeling"
+                "Circuitry",
+                "Microcontroller",
+                "Signal processing"
             ]
         },
         {
@@ -122,6 +103,21 @@
                 "Drawings for Manufacturing",
                 "CAD"
             ]
+        },
+        {
+        "image" : "images/projects/bioreactor_ansys.png",
+        "title": "Bioreactor CFD Simulation",
+        "bodyText": "An ongoing project to learn more about CFD using ANSYS, to simulate mixing efficiency and analyze flow behaviour in a bench-scale bioreactor. \n - Simulating velocity fields, shear stress distribution relevant to 3D cell cultures. \n - Experimenting with reactor geometry, impeller configuration and boundary conditions.",
+        "links": [
+            {
+            }
+        ],
+        "tags" : [
+            "ANSYS Confluent",
+            "Bioreactor mixing",
+            "Fluid Flow",
+            "Biological modeling"
+        ]
         }
     ]
 }

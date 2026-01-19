@@ -2,20 +2,20 @@
     "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Programming",
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/Cplusplus.png",
+                    "title": "C++"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/R.png",
+                    "title": "R"
                 },
                 {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
+                    "icon": "images/skills/matlab.png",
+                    "title": "MATLAB"
                 },
                 {
                     "icon": "images/skills/python.png",
@@ -27,37 +27,66 @@
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Software",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/solidworks.png",
+                    "title": "Solidworks"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/ansys.png",
+                    "title": "ANSYS"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/autocad.png",
+                    "title": "AutoCAD"
+                },
+                                {
+                    "icon": "images/skills/kicad.png",
+                    "title": "KiCAD"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "Hardware",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/fdm_3dp.png",
+                    "title": "FDM 3D Printing"
                 },
                 {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
+                    "icon": "images/skills/machining.png",
+                    "title": "Machining"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/microCT.png",
+                    "title": "MicroCT"
+                },
+                                {
+                    "icon": "images/skills/sem.png",
+                    "title": "SEM Imaging"
                 }
             ]
+    },
+    {
+        "title" : "Laboratory",
+        "items": [
+            {
+                "icon": "images/skills/electrophoresis.png",
+                "title": "Electrophoresis"
+            },
+            {
+                "icon": "images/skills/microfluidics.png",
+                "title": "Microfluidics"
+            },
+            {
+                "icon": "images/skills/cell-culture.png",
+                "title": "Cell Culture"
+            },
+                            {
+                "icon": "images/skills/chemical.png",
+                "title": "Chemical Handling"
+            }
+        ]
     }
 ]}
