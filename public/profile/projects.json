@@ -1,90 +1,90 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/distal_femur_plate.jpg",
+            "title": "Distal Femur Plate",
+            "bodyText": "Distal Femur Fracture Plate designed for elderly women. \n -  Titanium alloy frame with internal fixation to prevent plate bending. \n Adaptable screw placement with bicortical threaded screws.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "text": "Medial Plate Drawing",
+                    "href": "https://drive.google.com/file/d/1qpeHRF1IaeEFSGqFCJetrmKb3RW6_wPN/view?usp=sharing"
                 },
                 {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "text": "FEA Von Mises Stress Plot",
+                    "href": "https://drive.google.com/drive/u/4/folders/1CCWd2PmakQmNF8WzbnMhyUXts3JRQqQp"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Solidworks",
+                "FEA"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/simple_keyboard_pcb.jpg",
+            "title": "Keyboard PCB Design",
+            "bodyText": "A simple keyboard PCB made using KiCAD to learn the software and eventually help in creating my own custom keyboard. \n Diode-isolated key matrix to prevent ghosting; designed for ATmega32U4.",
+            "links": [
+            ],
+            "tags" : [
+                "ECAD",
+                "PCB Design"
+            ]
+        },
+        {
+            "image" : "images/projects/sailbot_polaris.jpg",
+            "title": "UBC SailBot Design Team",
+            "bodyText": "Designed, specified, tested, and assembled components for the rudder system, including a carbon fiber composite rudder fin, twill-weave carbon fiber shaft, stuffing box design, and motor brackets.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "text": "Manufacturing and Assembly",
+                    "href": "https://drive.google.com/drive/u/4/folders/1xf0Cy2Taso7rG6ixp6te50Sst5xow_5B"
                 },
                 {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "Shaft Drawing for Machining",
+                    "href": "https://drive.google.com/file/d/1BerL3PtEpl6aSetvwfpRkegj0SOxIjQy/view?usp=sharing"
+                },
+                {
+                    "text": "Motor Side Assembly",
+                    "href": "https://drive.google.com/file/d/1TRgffp062IAOXlE5OglMAGnq0dnYNwBF/view?usp=sharing"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "CAD",
+                "FEA",
+                "Design for Manufacturing (DFM)",
+                "Composite Wet Layup"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/sinus_rinse_sensor_app.png",
+            "title": "Sinus Rinse Sensor Application",
+            "bodyText": "An app that allows surgeons and clinicians to track NeilMed Sinus Rinse usage. \n - Waterproof sensor housing \n - Simple and efficient data logging \n - Durable silicon strap for convenience",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "text": "3D Printed Sensor Housing",
+                    "href": "https://drive.google.com/drive/u/4/folders/1Rcew9tmHTuMgQlERWbxHmd3NQzVT3wpL"
+                },
+                {
+                    "text": "Data Logging",
+                    "href": "https://drive.google.com/file/d/1ZtCAtN-Z6PeNPrBIYtskymcEfh8GpDGe/view?usp=sharing"
+                },
+                {
+                    "text": "Microcontroller",
+                    "href": "https://drive.google.com/file/d/1ZtCAtN-Z6PeNPrBIYtskymcEfh8GpDGe/view?usp=sharing"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "CAD",
+                "FDM 3D Printing",
+                "Client consultation",
+                "Arduino"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/PPG_heart_sensor.png",
+            "title": "PPG Heart Rate Sensor",
+            "bodyText": "A simple DIY PPG sensor to detect heart rate. \n -Expanded knowledge with IR components for AC signal, and soldering",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
             ],
             "tags" : [
                 "Kotlin",
@@ -98,52 +98,29 @@
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "title": "Bioreactor CFD Simulation (WIP)",
+            "bodyText": "An ongoing project to learn more about CFD using ANSYS, to simulate mixing efficiency and analyze flow behaviour in a bench-scale bioreactor. \n - Simulating velocity fields, shear stress distribution relevant to 3D cell cultures. \n - Experimenting with reactor geometry, impeller configuration and boundary conditions.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "ANSYS Confluent",
+                "Bioreactor mixing",
+                "Fluid Flow",
+                "Biological modeling"
             ]
         },
         {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "image" : "images/projects/phas_machine_holder.png",
+            "title": "Mechanical Phone Holder",
+            "bodyText": "Designed and machined multiple components of an adjustable mechanical phone holder made of aluminum and brass. \n - Tool bit grinding and lathing operations. \n - Familiarity with facing, turning, drilling, tapping, and face milling operations.",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Machining",
+                "Drawings for Manufacturing",
+                "CAD"
             ]
         }
     ]
