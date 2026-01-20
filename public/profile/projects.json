@@ -1,6 +1,25 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/Carbon_Water_Filter.jpg",
+            "title": "Carbon Water Filter",
+            "bodyText": "Distal Femur Fracture Plate designed for elderly women. \n -  Titanium alloy frame with internal fixation to prevent plate bending. \n Adaptable screw placement with bicortical threaded screws.",
+            "links": [
+                {
+                    "text": "Component Exploded Views",
+                    "href": "https://drive.google.com/file/d/1PIVYPpgnBPsT9kCk2qs3tJf7j6vMSnwd/view?usp=sharing"
+                },
+                {
+                    "text": "Assembly Front View",
+                    "href": "https://drive.google.com/file/d/1jiK0XRtSD97v0G6_05u4JBl9zRHg_JVf/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Solidworks",
+                "FEA"
+            ]
+        },
+        {
             "image" : "images/projects/distal_femur_plate.jpg",
             "title": "Distal Femur Plate",
             "bodyText": "Distal Femur Fracture Plate designed for elderly women. \n -  Titanium alloy frame with internal fixation to prevent plate bending. \n Adaptable screw placement with bicortical threaded screws.",
@@ -78,6 +97,22 @@
                 "FDM 3D Printing",
                 "Client consultation",
                 "Arduino"
+            ]
+        },
+        {
+            "image" : "images/projects/UDL_bike.png",
+            "title": "Bike Anti-Theft Locking System",
+            "bodyText": "Bike theft is extremely common in universities. As part of a designathon, our team worked to create a robust anti-theft mechanism to reduce bike thefts on campus. \n \n - I created the base for the stand in Solidworks, and performed rigorous static calculations to justify our design, alongside FEA simulations for bending and compression. \n \n - Achieved a second-place finish. ",
+            "links": [
+                {
+                    "text": "System Components",
+                    "href": "https://drive.google.com/file/d/1qLlX8JELGW1vnPcx06s1-TB_JyP4gIad/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "CAD",
+                "Pitch Proposal",
+                "Problem Solving"
             ]
         },
         {
