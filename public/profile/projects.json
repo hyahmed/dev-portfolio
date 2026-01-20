@@ -2,8 +2,8 @@
     "projects" : [
         {
             "image" : "images/projects/Carbon_Water_Filter.jpg",
-            "title": "Carbon Water Filter",
-            "bodyText": "Distal Femur Fracture Plate designed for elderly women. \n -  Titanium alloy frame with internal fixation to prevent plate bending. \n Adaptable screw placement with bicortical threaded screws.",
+            "title": "Carbon Water Filter | Aquahacking Challenge",
+            "bodyText": "- Conceptualized and engineered a high-efficiency water filtration system tailored for Indigenous communities in BC \n\n -  Spearheaded the development of a prototype for the filtration subsystem and presented the final product to a panel of Aquahacking judges, achieving a top 5 finish.",
             "links": [
                 {
                     "text": "Component Exploded Views",
@@ -15,8 +15,10 @@
                 }
             ],
             "tags" : [
-                "Solidworks",
-                "FEA"
+                "CAD",
+                "Life Cycle Assessment",
+                "Pitch Proposal",
+                "Technical Documentation"
             ]
         },
         {
